@@ -1,4 +1,4 @@
-<h4>sakura_graveaccent_mac</h4>
+<h2>sakura_graveaccent_mac</h2>
 
 さくらエディタで、`GraveAccent`を、文末と、文頭に付けるマクロ・・・
 
